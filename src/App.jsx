@@ -9,6 +9,8 @@ function App() {
   return (
     <>
       <Hero/>
+      <br />
+      <br />
       <Skills/>
     </>
   )
