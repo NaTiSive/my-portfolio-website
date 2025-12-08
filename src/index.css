@@ -1,1 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100..700&family=Rubik:wght@800&display=swap');
 @import "tailwindcss";
+@plugin "@midudev/tailwind-animations";
+
+@theme {
+    --font-primary: "Rubik", sans-serif;
+    --font-secondary: "Roboto Mono", monospace;
+}

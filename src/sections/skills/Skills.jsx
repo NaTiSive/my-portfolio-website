@@ -17,7 +17,7 @@ import tailwindIcon from "../../assets/skillsIcon/tailwind.svg";
 export default function skills() {
   return (
     <>
-      <h2>SKILLS</h2>
+      <h2 className="text-3xl font-primary">SKILLS</h2>
       <div>
         <SkillsList
           icon={htmlIcon}
