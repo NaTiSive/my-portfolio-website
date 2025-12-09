@@ -9,7 +9,7 @@ import flutterIcon from "../../assets/skillsIcon/flutter.svg";
 import javaIcon from "../../assets/skillsIcon/java.svg";
 import mysqlIcon from "../../assets/skillsIcon/mysql.svg";
 import nextjsIcon from "../../assets/skillsIcon/nextjs.svg";
-import nodejsIcon from "../../assets/skillsIcon/nodejs.svg";
+import nodejsIcon from "../../assets/skillsIcon/nodeJs.svg";
 import pythonIcon from "../../assets/skillsIcon/python.svg";
 import reactIcon from "../../assets/skillsIcon/react.svg";
 import tailwindIcon from "../../assets/skillsIcon/tailwind.svg";
