@@ -1,7 +1,7 @@
 import mailIcon from "../assets/skillsIcon/mail.svg";
 import linkedInIcon from "../assets/skillsIcon/linkedin.svg";
 
-export default function Contactme() {
+export default function Contact() {
   return (
     <>
       <div className="flex flex-col items-center text-center p-4 mb-10">
@@ -25,7 +25,6 @@ export default function Contactme() {
                 nattakorn4082@gmail.com
               </span>
             </a>
-
             <a
               href="https://www.linkedin.com/in/nattakorn-klangkhong/"
               target="_blank"

@@ -3,7 +3,7 @@ import Hero from "./sections/Hero/Hero";
 import Skills from "./sections/skills/Skills";
 import Project from "./sections/project/Project";
 import Footer from "./sections/Footer";
-import Contactme from "./sections/Contactme"
+import Contact from "./sections/Contact"
 import Navbar from "./sections/Navbar";
 
 function App() {
@@ -23,7 +23,7 @@ function App() {
       </section>
 
       <section id="contact" className="scroll-mt-28">
-        <Contactme />
+        <Contact />
       </section>
 
       <Footer />
