@@ -6,3 +6,7 @@
     --font-primary: "Rubik", sans-serif;
     --font-secondary: "Roboto Mono", monospace;
 }
+
+html {
+  scroll-behavior: smooth;
+}

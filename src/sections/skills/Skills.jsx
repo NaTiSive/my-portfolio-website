@@ -23,31 +23,31 @@ export default function skills() {
           <SkillsList
             icon={htmlIcon}
             title="HTML"
-            expert="Advance"
+            expert="Experienced"
             alt="html icon"
           />
           <SkillsList
             icon={cssIcon}
             title="CSS"
-            expert="Advance"
+            expert="Experienced"
             alt="css icon"
           />
           <SkillsList
             icon={jsIcon}
-            title="Javascript"
+            title="JavaScript"
             expert="Intermediate"
             alt="javascript icon"
           />
           <SkillsList
             icon={reactIcon}
             title="React"
-            expert="Advance"
+            expert="Experienced"
             alt="react icon"
           />
           <SkillsList
             icon={tailwindIcon}
             title="TailwindCSS"
-            expert="Advance"
+            expert="Experienced"
             alt="tailwindcss icon"
           />
           <SkillsList
@@ -71,14 +71,14 @@ export default function skills() {
           <SkillsList
             icon={pythonIcon}
             title="Python"
-            expert="Advance"
+            expert="Experienced"
             alt="python icon"
           />
-          <SkillsList icon={cIcon} title="C" expert="Advance" alt="C icon" />
+          <SkillsList icon={cIcon} title="C" expert="Experienced" alt="C icon" />
           <SkillsList
             icon={cppIcon}
             title="C++"
-            expert="Advance"
+            expert="Experienced"
             alt="c++ icon"
           />
           <SkillsList
