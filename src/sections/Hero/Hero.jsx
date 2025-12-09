@@ -7,15 +7,15 @@ import linkedInIcon from "../../assets/skillsIcon/linkedin.svg";
 export default function Hero() {
   return (
     <>
-      <div className="justify-items-center">
+      <div className="flex flex-col items-center text-center">
         <img
-          class="rounded-full w-100 h-100"
+          className="rounded-full w-100 h-100 mt-20 mb-10"
           src={pfImage}
           alt="Nattakorn Profile picture"
         />
-        <h1 className="text-6xl font-primary">Nattakorn Klangkhong</h1>
+        <h1 className="text-6xl font-primary">NATTAKORN KLANGKHONG</h1>
         <br />
-        <h2 className="text-2xl font-secondary">software engineer</h2>
+        <h2 className="text-2xl font-secondary">Intern software engineer</h2>
         <br />
         <p className="text-lg font-secondary w-300">
           Third-year Computer Science student passionate about Software
@@ -27,7 +27,7 @@ export default function Hero() {
           internship to leverage my skills, gain real-world experience, and grow
           as a developer.
         </p>
-        <div>
+        <div className="flex flex-row gap-10 pt-10 pb-5">
           <a href="https://github.com/NaTiSive">
             <img className="w-20" src={gitIcon} alt="github icon" />
           </a>
@@ -39,7 +39,7 @@ export default function Hero() {
         <a href={CV}>
           <button
             download
-            className="border rounded-2xl p-2 font-secondary border-2 font-semibold"
+            className="border rounded-2xl p-2 font-secondary border-2 font-semibold hover:bg-gray-100"
           >
             Download CV
           </button>

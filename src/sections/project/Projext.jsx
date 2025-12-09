@@ -8,6 +8,7 @@ import EyesightPic from "../../assets/projectpic/Eyesight_Besideyou.png";
 export default function Project() {
   return (
     <>
+    <div className="flex flex-col items-center text-center">
       <h2 className="text-3xl font-primary">PROJECTS</h2>
       <ProjectCard
         image={montongmoonPic}
@@ -49,6 +50,7 @@ export default function Project() {
         projectLink="https://github.com/NaTiSive/MontongMoon"
         linkTitle="Github"
       />
+    </div>
     </>
   );
 }
