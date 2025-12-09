@@ -18,14 +18,11 @@ export default function Hero() {
         <h2 className="text-2xl font-secondary">Intern software engineer</h2>
         <br />
         <p className="text-lg font-secondary w-300">
-          Third-year Computer Science student passionate about Software
-          Engineering. My expertise lies in front-end development, creating
-          responsive and high-performance systems using HTML, CSS, JavaScript,
-          and React. I also have experience with JavaFX for desktop apps and
-          foundational knowledge in Flutter. I am committed to delivering
-          intuitive user experiences through strong UX/UI principles. Seeking an
-          internship to leverage my skills, gain real-world experience, and grow
-          as a developer.
+          Third-year Computer Science student focused on building high-quality
+          software solutions across the entire development cycle. Proficient in
+          both Front-End (React) and Back-End (Node.js/MySQL), with strong
+          problem-solving abilities using core languages like Python, Java, and
+          C++. Quick to learn and adapt to new technologies.
         </p>
         <div className="flex flex-row gap-10 pt-10 pb-5">
           <a href="https://github.com/NaTiSive">

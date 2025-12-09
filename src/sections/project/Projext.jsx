@@ -13,41 +13,36 @@ export default function Project() {
       <ProjectCard
         image={montongmoonPic}
         projectName="MontongMoon"
-        projectDate="june 2023 - june 2024"
         alt="montongmoon image"
         projectLink="https://github.com/NaTiSive/MontongMoon"
         linkTitle="Github"
       />
       <ProjectCard
         image={KUrequestPic}
-        projectName="MontongMoon"
-        projectDate="june 2023 - june 2024"
+        projectName="Kasetsart University’s request submission"
         alt="montongmoon image"
-        projectLink="https://github.com/NaTiSive/MontongMoon"
+        projectLink="https://github.com/CS211-671/cs211-project-sud-yod-tang-praw"
         linkTitle="Github"
       />
       <ProjectCard
         image={KUsportPic}
-        projectName="MontongMoon"
-        projectDate="june 2023 - june 2024"
+        projectName="KUSport&Activity : UX/UI Design"
         alt="montongmoon image"
-        projectLink="https://github.com/NaTiSive/MontongMoon"
-        linkTitle="Github"
+        projectLink="https://www.figma.com/design/8N3r9IiscwI9JCOr8Mlgxc/KU-Sport---Activity?node-id=68-2&t=yYvXISaI7jEL97Hk-1"
+        linkTitle="Figma"
       />
       <ProjectCard
         image={ParkinsonPic}
-        projectName="MontongMoon"
-        projectDate="june 2023 - june 2024"
+        projectName="Parkinson’s Disease Prediction Model"
         alt="montongmoon image"
-        projectLink="https://github.com/NaTiSive/MontongMoon"
+        projectLink="https://github.com/NaTiSive/parkinson_prediction"
         linkTitle="Github"
       />
       <ProjectCard
         image={EyesightPic}
-        projectName="MontongMoon"
-        projectDate="june 2023 - june 2024"
+        projectName="Eyesight Besideyou"
         alt="montongmoon image"
-        projectLink="https://github.com/NaTiSive/MontongMoon"
+        projectLink="https://github.com/NaTiSive/parkinson_prediction"
         linkTitle="Github"
       />
     </div>
