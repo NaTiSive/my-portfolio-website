@@ -35,7 +35,7 @@ export default function skills() {
           <SkillsList
             icon={jsIcon}
             title="JavaScript"
-            expert="Intermediate"
+            expert="Experienced"
             alt="javascript icon"
           />
           <SkillsList
