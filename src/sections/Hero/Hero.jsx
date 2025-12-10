@@ -21,11 +21,13 @@ export default function Hero() {
       </h2>
 
       <p className="text-base md:text-lg font-secondary max-w-2xl mt-6 leading-relaxed text-gray-700">
-        Third-year Computer Science student focused on building high-quality
-        software solutions across the entire development cycle. Proficient in
-        both Front-End (React) and Back-End (Node.js/MySQL), with strong
-        problem-solving abilities using core languages like Python, Java, and
-        C++. Quick to learn and adapt to new technologies.
+        Third-year Computer Science student at Kasetsart University seeking a 
+        <b> 4-6 month Co-operative Education</b> opportunity as a{" "}
+        <b>Software Engineer</b>. Proficient in{" "}
+        <b>Full-Stack development (React, Node.js, MySQL)</b> and experienced in
+        <b> Machine Learning/Computer Vision (Python)</b>. Eager to apply strong
+        analytical and problem-solving skills to deliver efficient, scalable
+        software solutions in a professional team environment.
       </p>
 
       {/* Social Icons with Hover Effect */}
