@@ -1,6 +1,6 @@
 import React from "react";
 import pfImage from "../../assets/Profile.jpg";
-import CV from "../../assets/Resume.pdf";
+import CV from "../../assets/Nattakorn_Klangkhong_CV.pdf";
 import gitIcon from "../../assets/skillsIcon/github.svg";
 import linkedInIcon from "../../assets/skillsIcon/linkedin.svg";
 
